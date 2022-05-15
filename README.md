@@ -69,5 +69,7 @@ Bir internet sitesindeki ürün ve kategoriyi örnek alarak bir web api oluştur
 
 
 ## Entities
+## Product
 ![entity1](images/product.png)
+## Category
 ![entity2](images/category.png)
